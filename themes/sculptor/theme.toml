@@ -1,4 +1,4 @@
-name = "khipus"
+name = "sculptor"
 license = "MIT"
 description = ""
 min_version = "0.1"
@@ -8,5 +8,5 @@ min_version = "0.1"
   homepage = "https://www.sadmedia.com"
 
 [original]
-  name = "khipus"
+  name = "sculptor"
   author = "Daniel Gómez"
