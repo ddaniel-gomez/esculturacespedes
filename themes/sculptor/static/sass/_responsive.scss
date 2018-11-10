@@ -1,0 +1,24 @@
+/////////// responsive ///////////
+
+//big desktop
+@media only screen and (max-width: 1920px){}
+
+//medium desktop
+@media only screen and (min-width: 1440px){}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1080px;
+  }
+}
+
+//small desktop
+@media only screen and (max-width: 1025px) {}
+
+//tablets
+@media only screen and (max-width: 992px) {}
+
+@media only screen and (max-width: 768px) {}
+
+//mobile
+@media only screen and (max-width: 426px) {}

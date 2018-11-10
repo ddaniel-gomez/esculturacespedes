@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "es"
+title = "Sculptor"
+theme = "sculptor"
+[params]
+  name = "Francisco Céspedes"
+  description = ""
+  favicon = "images/favicon.png"
+  DateForm = "January 2, 2006"
+[params.google.analytics]
+    trackerID = "GA-000000000-0"

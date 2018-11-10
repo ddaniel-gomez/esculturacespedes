@@ -1,0 +1,12 @@
+name = "khipus"
+license = "MIT"
+description = ""
+min_version = "0.1"
+
+[author]
+  name = "Daniel Gómez"
+  homepage = "https://www.sadmedia.com"
+
+[original]
+  name = "khipus"
+  author = "Daniel Gómez"

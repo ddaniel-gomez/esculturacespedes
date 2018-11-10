@@ -1,0 +1,211 @@
+/* line 2, ../sass/styles.scss */
+html {
+  font-size: 100%;
+}
+
+/* line 5, ../sass/styles.scss */
+body {
+  font-size: 15px;
+  font-size: 0.9375rem;
+  font-family: "Open sans", Helvetica, Arial, sans-serif;
+  color: #666666;
+  padding: 0;
+}
+
+/* line 12, ../sass/styles.scss */
+.topspace {
+  margin-top: 40px;
+}
+
+/*********************************************************************
+
+
+                                TYPOGRAPHY
+
+
+**********************************************************************/
+/* line 23, ../sass/styles.scss */
+p {
+  line-height: 1.6em;
+  margin: 0 0 30px 0;
+}
+
+/* line 27, ../sass/styles.scss */
+ul,
+ol {
+  line-height: 1.6em;
+  margin: 0 0 30px 0;
+}
+
+/* line 32, ../sass/styles.scss */
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 30px;
+  border-left: 5px solid #eee;
+}
+
+/* line 37, ../sass/styles.scss */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Open sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #333333;
+}
+
+/* line 53, ../sass/styles.scss */
+h1 {
+  font-size: 40px;
+  font-size: 2.5rem;
+}
+
+/* line 57, ../sass/styles.scss */
+h2 {
+  font-size: 36px;
+  font-size: 2.25rem;
+}
+
+/* line 61, ../sass/styles.scss */
+h3 {
+  font-size: 30px;
+  font-size: 1.875rem;
+}
+
+/* line 65, ../sass/styles.scss */
+h4 {
+  font-size: 24px;
+  font-size: 1.5rem;
+}
+
+/* line 69, ../sass/styles.scss */
+h5 {
+  font-size: 20px;
+  font-size: 1.25rem;
+}
+
+/* line 73, ../sass/styles.scss */
+a {
+  color: #d9007f;
+}
+
+/* line 76, ../sass/styles.scss */
+a:hover {
+  color: #98045a;
+}
+
+/* line 79, ../sass/styles.scss */
+.lead {
+  font-weight: 300;
+  font-size: 21px;
+  font-size: 1.3125rem;
+}
+
+/* line 84, ../sass/styles.scss */
+.text-msg {
+  line-height: 1.7em;
+  color: #b3b3b3;
+  font-weight: 300;
+  text-transform: capitalize;
+  margin-top: -0.23em;
+}
+
+/* line 91, ../sass/styles.scss */
+.size-auto,
+.size-full,
+.size-large,
+.size-medium,
+.size-thumbnail {
+  max-width: 100%;
+  height: auto;
+}
+
+/*********************************************************************
+
+
+                                FOOTER
+
+
+**********************************************************************/
+/* line 107, ../sass/styles.scss */
+#footer {
+  background: #232323;
+  padding: 30px 0 0 0;
+  font-size: 12px;
+  color: #999;
+}
+
+/* line 113, ../sass/styles.scss */
+#footer a {
+  color: #ccc;
+}
+
+/* line 116, ../sass/styles.scss */
+#footer a:hover {
+  color: #fff;
+}
+
+/* line 119, ../sass/styles.scss */
+#footer h3.widget-title {
+  font-size: 15px;
+  font-size: 0.9375rem;
+  text-transform: uppercase;
+  color: #ccc;
+  margin: 0 0 20px;
+}
+
+/* line 126, ../sass/styles.scss */
+#underfooter {
+  background: #191919;
+  padding: 15px 0;
+  color: #777;
+  font-size: 12px;
+}
+
+/* line 132, ../sass/styles.scss */
+#underfooter a {
+  color: #aaa;
+}
+
+/* line 135, ../sass/styles.scss */
+#underfooter a:hover {
+  color: #fff;
+}
+
+/* line 138, ../sass/styles.scss */
+#underfooter p {
+  margin: 0;
+}
+
+/* line 141, ../sass/styles.scss */
+.follow-me-icons {
+  font-size: 30px;
+}
+
+/* line 144, ../sass/styles.scss */
+.follow-me-icons i {
+  padding: 15px 0;
+  margin: 0 10px 0 0;
+}
+
+/*********************************************************************
+
+
+                                RESPONSIVE
+
+
+**********************************************************************/
+@media (min-width: 1200px) {
+  /* line 10, ../sass/_responsive.scss */
+  .container {
+    max-width: 1080px;
+  }
+}
